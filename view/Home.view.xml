@@ -5,7 +5,8 @@
 	xmlns:mvc="sap.ui.core.mvc">
 	<Page id="page" showHeader="false">
 		<content>
-			
+			<Label text="luminACon" class="pageHeading"/>
+			<Label text="connect and interact with your alumnis across the globe" class="pageHeading"/>
 
 		</content>
 	</Page>
