@@ -3,7 +3,7 @@
 	displayBlock="true"
 	xmlns="sap.m"
 	xmlns:mvc="sap.ui.core.mvc">
-	<Page id="page">
+	<Page id="page" showHeader="false">
 		<content>
 			
 
