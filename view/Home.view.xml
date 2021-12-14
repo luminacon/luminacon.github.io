@@ -5,9 +5,12 @@
 	xmlns:mvc="sap.ui.core.mvc">
 	<Page id="page" showHeader="false">
 		<content>
-			<Label text="luminACon" class="pageSubHeading"/>
-			<Label text="connect and interact with your alumnis across the globe" class="pageHeading"/>
-			<Button text="Sign Up" press="onSignUp" />
+			<FlexBox direction="Column" alignItems="Start">
+				<Label text="luminACon" class="pageHeading"/>
+				<Label text="connect and interact with your alumnis across the globe" class="pageSubHeading"/>
+				<Button text="Sign Up" press="onSignUp" />
+			</FlexBox>
+
 		</content>
 	</Page>
 </mvc:View>
