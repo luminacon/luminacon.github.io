@@ -10,7 +10,9 @@
 				<Label text="connect and interact with your alumnis across the globe" class="pageSubHeading"/>
 				<Button text="Sign Up" press="onSignUp" />
 			</FlexBox>
-
+				<Label text="luminACon" class="pageHeading"/>
+				<Label text="connect and interact with your alumnis across the globe" class="pageSubHeading"/>
+				<Button text="Sign Up" press="onSignUp" />
 		</content>
 	</Page>
 </mvc:View>
